@@ -1,0 +1,29 @@
+﻿@using BLL
+@using Entity
+
+@{ 
+    KategoriRep kRep = new KategoriRep();
+    List<Kategori> list = kRep.List();
+
+}
+
+
+
+<div class="row">
+    <div class="list-group">
+        <ul class="list-unstyled">
+            <li>
+                @foreach (Kategori kategori in list)
+                {
+                    <a href="/Home/Kategori/@kategori.KategoriID" title="@kategori.Tanitim" class="list-group-item"><span class="glyphicon glyphicon-arrow-right"></span>@kategori.Baslik</a>
+                }
+
+                
+            </li>
+            
+        </ul>
+    </div>
+    <!-- /.col-lg-6 -->
+    
+    <!-- /.col-lg-6 -->
+</div>

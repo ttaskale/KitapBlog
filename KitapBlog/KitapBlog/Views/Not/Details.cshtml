@@ -1,0 +1,50 @@
+﻿@model Entity.Not
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Kitap Detaylar</h2>
+
+<div>
+    <h4>Notlar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Baslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Baslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Icerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Icerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BegeniSayisi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BegeniSayisi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tarih)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.NotID }) |
+    @Html.ActionLink("Kitap Notları Listesine Geri Dön", "Index")
+</p>

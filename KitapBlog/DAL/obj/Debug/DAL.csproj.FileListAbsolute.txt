@@ -1,0 +1,16 @@
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\DAL.dll.config
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\DAL.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\DAL.pdb
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Entity.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\EntityFramework.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Entity.pdb
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\EntityFramework.xml
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\obj\Debug\DAL.dll
+c:\documents\visual studio 2015\Projects\KitapBlog\DAL\obj\Debug\DAL.pdb
